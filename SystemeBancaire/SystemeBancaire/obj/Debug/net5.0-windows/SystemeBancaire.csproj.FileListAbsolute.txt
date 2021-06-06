@@ -14,3 +14,5 @@ F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\S
 F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\ref\SystemeBancaire.dll
 F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\SystemeBancaire.pdb
 F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\SystemeBancaire.genruntimeconfig.cache
+F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\SystemeBancaire.LoginPage.resources
+F:\C#\SystemeBancaire\SystemeBancaire\SystemeBancaire\obj\Debug\net5.0-windows\SystemeBancaire.csproj.GenerateResource.cache
