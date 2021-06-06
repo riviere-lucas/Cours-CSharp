@@ -77,6 +77,7 @@
             // 
             this.TextBoxMdp.Location = new System.Drawing.Point(148, 134);
             this.TextBoxMdp.Name = "TextBoxMdp";
+            this.TextBoxMdp.PasswordChar = '*';
             this.TextBoxMdp.Size = new System.Drawing.Size(210, 20);
             this.TextBoxMdp.TabIndex = 6;
             // 

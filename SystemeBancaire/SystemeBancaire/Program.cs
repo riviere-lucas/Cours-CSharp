@@ -21,7 +21,10 @@ namespace SystemeBancaire
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SignUpPage());
+            Application.Run(new LoginPage());
+            
+            
+            
         //     Console.WriteLine("Getting Connection ...");
         //     MySqlConnection conn = Connexion.GetDBConnection();
         //

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SystemeBancaire.Controller;
 
 namespace SystemeBancaire
 {
@@ -19,9 +20,11 @@ namespace SystemeBancaire
 
         private void Connexion_Click(object sender, EventArgs e)
         {
-            
-            
-            throw new System.NotImplementedException();
+            String identifiant = TextBoxIdentifiant.Text;
+            String mdp = TextBoxMdp.Text;
+
+            LinkDB db = new LinkDB();
+            db.checkCredencial(identifiant, mdp);
         }
     }
 }

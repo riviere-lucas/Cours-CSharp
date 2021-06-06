@@ -23,6 +23,8 @@ namespace SystemeBancaire
 
             LinkDB db = new LinkDB();
             db.createCredencial(identifiant,mdp);
+
+            MessageBox.Show("Creation de compte reussite");
         }
     }
 }
